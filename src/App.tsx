@@ -1,9 +1,10 @@
-import { Tldraw } from "@tldraw/tldraw"
+
+
 
 function App() {
-return <div>
-  <Tldraw />
-</div>  
+return <div className="TextButtonAccentBlank">
+  Test
+</div>
 }
 
 export default App;
